@@ -40,3 +40,8 @@ https://public.tableau.com/app/profile/chhaya.sharma1654/viz/CreditCardCustomerA
 ---
 
 ## 📁 Project Structure
+```text
+data/        → Raw and cleaned datasets  
+sql/         → SQL queries & KPIs  
+notebooks/   → Python analysis notebooks  
+visuals/     → Dashboard screenshots  
